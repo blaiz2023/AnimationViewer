@@ -43,11 +43,8 @@ Realtime view/edit transparent animations (GIF, SAN, EAN...) and pictures (BMP, 
 # Images
 <img src="images/av-screenshot2.png">
 
-<img src="images/av-screenshot3.jpng">
+<img src="images/av-screenshot3.png">
 
 <img src="images/av-screenshot4.png">
 
 <img src="images/av-screenshot5.png">
-
-
-<img src="images/multiicon-screenshot4.jpg">
