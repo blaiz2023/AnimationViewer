@@ -1,0 +1,252 @@
+HELP
+
+About
+View and edit animations (GIF, SAN, EAN etc) and pictures (BMP, JPG, ICO etc) with ease. Free, fully functioning software program, with no installation or setup. Your existing computer libraries and files remain unchanged and unmodified.  Blaiz Enterprises prides itself on this respect function.
+
+
+Information
+Operating System
+Microsoft Windows 95-11
+
+Download Site
+http://www.blaizenterprises.com/av.zip
+
+Information Page
+http://www.blaizenterprises.com/av.html
+
+Contact
+http://www.blaizenterprises.com/contact.html
+
+Portal - Blaiz Enterprises
+http://www.blaizenterprises.com
+
+
+Program Features
+* View animations in realtime
+* Animation Preview frame
+* Multiple graphic formats: BMP, WMF, EMF, JPG, JPGT, JIF, GIF - solid and transparent '89a', ICO - true color solid and transparent, PPM, PGM, PBM, XBM, TEP, ATEP, OMI, SAN, EAN, HTM / HTML - email signature
+* Definable format listing
+* Seamless format to format conversion
+* Retain SaveAs format - for multiple same format saving
+* Automatic scroll - definable speed, down / stop / up, continuous repeat
+* Rename
+* Transparent / Flip / Mirror
+* Delay in milliseconds (animation speed)
+* Pot Fill - create transparency, definable tolerance
+* Trim - automatically delete unused areas on all cells
+* Faster / slower speed options
+* Custom preview background color
+* Flash preview background color while scrolling
+* Bgcolor - switch preview background colors
+* Animation status bar readout: fps, cells, size width/height, bytes
+* Single click for Animations / Pictures / Cursors Support Folder listing
+* Edit SAN directly in Animator - from AV click "View" tab > "Edit"
+* Copy Cells / Paste Cells - convert animation to / from "Image Strip" for external editing (e.g. MS Paint, graphics package)
+* Copy As Text - copy animation to Clipboard as plain text. An example for use - a user defined graphic alongside "Custom Translation" panel under "Help / Information" (animated = ATEP or still = TEP automatically selected)
+* 2x "Save As / Paste From" options - Save / Open from multiple Folders - e.g. use as work hub
+* 2x "Send" options - copy animation to external Folders
+* 2x "Send Replace Prompt" options
+* 2x Definable "Send" Folders
+* Sizeable
+* Multilingual Interface
+* Realtime Help - hover mouse over for instant, specific help
+* Integrated Help
+* Built-in help viewer with additional html / plain text external viewing options
+* No installation
+* Portable - runs with no installation, all files retained on source storage device (usb stick, usb disk etc)
+
+
+Standard Features
+* Internet style interface
+* User Management (customise options / settings / appearance)
+* Schemes
+* Clone program option - run multiple, parallel, independent instances
+* Intelligent behaviour
+* Lightweight architecture (VUN) - minimal resource usage
+* Quality engineered, stable and reliable
+* Animated program icon
+* Balanced program resize
+* Multiple user support
+* Dual layer multilingual language support (Custom - personalise your own language, and Primary)
+* Detailed information panels - see "Help / Information" tab
+* Detailed Program information panel
+* Detailed System information panel
+* System Folders management panel
+* Synchronise Support Folders option
+* Copy / Paste program Scheme to / from Clipboard as plain text for easy email / transportation of entire program settings / options / appearance information
+* Definable program font size for large GUI text display
+* Program Category List - run same category programs quickly and easily
+* 6 button window - 1.Close / 2.Full Screen / 3.Floating / 4.Hide (minimise) / 5.Multifunction - Resize Window / Center Window and Category List / Category Folder / 6.Default Appearance
+
+
+Starting Out
+Specific, instance realtime help is scrolled at top of window. Simply hover mouse over any part of program for help readout.
+
+From "View" tab
+Click "Animations", "Pictures" or "Cursors" link to view. Contents of folder are displayed in right panel titled "Files". Click a file to Preview, or click "Scroll Down" / "Scroll Up" link to scroll through all files automatically.
+
+These are Support Folders with content available for Blaiz Enterprises' programs. Click "Folder C:\..." link just above Preview area to select an alternative folder.
+
+Animation can be easily adjusted, in realtime, using one of these options (bottom panel):
+
+Transparent - Bullet to show animation transparently, otherwise solid
+Flip - Bullet to flip vertically
+Mirror - Bullet to flip horizontally
+Faster - Increase animation speed
+Slower -Decrease animation speed
+Trim - Automatically delete unused areas (wasted space) on all cells
+
+Animation is modified in memory, and must be saved in order for changes to be permanent:
+Click "Save" link to save (replace) without prompting in same format, or, click "Save As" link 
+to display a "Save As" window. Type a new file name and / or select alternative format and click "Save" button. "Files" list will update and automatically highlight animation.
+
+
+Realtime Help
+Hover mouse over any part of program for instant and specific help - scrolled at top of program window.
+
+Select "User Management" tab and ensure bullet for "Realtime Help" (default).
+
+
+Translation
+Animation Viewer supports dual layer translation:
+1. Custom Translation - Specifically designed for user to create / maintain / personalise
+2. Primary Translation - English
+
+Custom Translation
+User customisable plain text translation system. Select "Help / Information" tab > "Translation > Custom Translation" to view control panel.
+
+This special option empowers you to create and modify a plain text, custom language translation, specific to this program (no other program is affected). This personalised translation is stored inside the current program scheme and any Scheme/s saved by this program, enabling easy backup / recovery and transportation / sharing.
+
+Options:
+Copy - Copy translation to Clipboard as plain text
+Paste - Paste translation from Clipboard and replace current text
+Clear - Reset translation to default 
+
+There are five translation sections:
+Information, GUI Translation, Realtime Help Translation, Error Translation, Currently Unused Translation.
+
+1. ## Information #########################
+Has three parts:
+a) Language description - e.g. "(Language)>German" for German
+b) Acknowledgement text - e.g. "(Acknowledgement)>Translation by XYZ"
+c) Text Picture (still or animated). From Animation Viewer, click "Copy As Text" link to copy picture / animation to Clipboard as plain text - e.g. "(TEP)>T4M00D00))))So9d0000)3OUu300W300)BjQu3B0Tl90~1222 2222222222222222 211222222222 22222222222112222222 22222222222221 12222222222222222 2222134444444444444 44444453344444 44444444444444533444 4444444444444444 533444444444444444 444453677777777777 777777778667 777777777777777 7778667777777777777777 77786677777777777777777778 668888888888 888888888 86#"
+
+2. ## GUI Translation #########################
+Comprised of many translation pairs:
+a) Original English word / phrase - do not modify (used by Program)
+b) New word / phrase - type your translation here (keep on one line)
+
+Examples:
+(ORG)>Soft Close Dialog Windows
+(NEW)>"Equivalent in your language"
+
+(ORG)>Borders
+(NEW)>"Equivalent in your language"
+
+Sections 3. through 5. are comprised identically to section 2. above:
+3. ## Realtime Help Translation #########################
+4. ## Error Translation #########################
+5. ## Currently Unused Translation #########################
+
+Note: Section 5. "Currently Unused Translation" will only contain translated entries, which are yet to be used by the program (e.g. prompt dialog Window).
+
+Overview/Statistics Panel Explained:
+
+Information:
+Language - Language description (section 1.a) above
+
+Lookup:
+Tracks translation requests performed by program successful or not
+
+Successful - English replaced with user supplied word / phrase
+Not Found - English retained as no user supplied word / phrase was found
+Total - Total number of translation requests
+
+Coverage:
+Statistical overview of supplied and required translations for sections 2. through 5.
+
+
+Restoring Defaults
+To reset your program to default options / settings / appearance, select "User Management" tab, click "Defaults" button (bottom-right), click "Yes" to proceed and "Yes" again, to confirm.
+
+
+Technological Background
+The new generation of Blaiz Enterprises' software is now proudly based entirely on BE proprietary engineered code foundation, consisting of three main pillars: Visual Engine, User Management and Network Management, forming a base package of systems called "VUN".
+
+VUN Overview
+
+Designed from need-based functionality, to a flexible, easy to use and customisable Graphical User Interface, with a solid, concise and fast code foundation.
+
+VUN Design
+
+* 192+ highly organised, dynamic, self-managing objects, each able to cross-communicate, seamlessly and effortlessly, with core redundancy handling for performance reliability and long-term, consistent stability
+
+* 92,000+ lines of concise, interconnected, modular, object-orientated code, form the powerful, flexible, yet extremely dynamic system - suitable for small to large scale demands with no additional complexity
+
+* High level of Windows operating system independence, enables successful execution over multiple Windows platforms using a single code base, whilst greatly reducing error production, program complexity and debugging time lines
+
+* Engineered exclusively "in house" (no third party) to stringently high standards of quality and performance, yielding vitally important benefits of:
+
+1.  Display, function and execution consistency
+2.  High stress stability
+3.  Ease of scalability
+4.  Low system dependency
+5.  Ultra low System / User / GDI and graphics resource consumption
+6.  Control management system - thousands of controls per GUI
+7.  Low graphical overhead / demand
+8.  Low memory consumption
+9.  Ultra fast startup
+10. High level of customisation (user)
+11. High level of internal system automation
+12. No Installation
+
+VUN Technicals
+
+Visual Engine
+* Rapid control creation
+* Large capacity - thousands of controls per program, even under Windows 9x architecture
+* Coordination of mouse / keyboard input information for specific behaviour generation
+* Single step, managed control construction, initialisation and destruction
+* Native position processing for code free intelligent control alignment
+* Lightweight, non-Windows control architecture
+* Buffered painting for flicker free rendering
+* Virtual bitmap / image - no GDI resources
+* Coordinated low resource, 64-bit, synchronised timing system
+
+User Management
+* Managed variable environment (name / value / type / default / range)
+* Realtime IO synchronisation
+* Program specific organisation
+* Integrated environment wide notification
+* Native clone support for multiple parallel instances
+* Color conflict detection and correction
+
+Network Management
+* Fully managed socket layer - connection / status / closure
+* Linear design model
+* Flood detection
+* Complex free client / server operation
+* Throttle controlled upload / download streaming
+* On the fly compression
+* DNS cache / lookup manager
+* Uniform local and network error handling / reporting system
+* Integrated raw logs
+* Realtime information panels
+
+General
+* Linear error handling - high stability, cascade failure free
+* Dynamic, scalable type controllers
+* Script processor
+* Dual layer multilingual language translation (custom and primary)
+* Portable mode - program / files work from source storage device
+
+
+MIT License
+Copyright 2025 Blaiz Enterprises ( www.blaizenterprises.com )
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+

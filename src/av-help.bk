@@ -1,0 +1,344 @@
+<programname> Help - Blaiz Enterprises
+
+About
+View and edit animations (GIF, SAN, EAN etc) and pictures (BMP, JPG, ICO etc) with ease. Free, fully functioning software program, with no installation or setup. Your existing computer libraries and files remain unchanged and unmodified.  Blaiz Enterprises prides itself on this respect function.
+
+Automatically on your Start button for quick, easy and integrated consistent navigation at:
+.. Start > Programs > Blaiz Enterprises > Image Tools
+
+Schemes Folder places itself on your Start button:
+.. Start > Programs > Blaiz Enterprises > Files > Schemes
+
+Animations Folder places itself on your Start button:
+.. Start > Programs > Blaiz Enterprises > Files > Animations
+
+Pictures Folder places itself on your Start button:
+.. Start > Programs > Blaiz Enterprises > Files > Pictures
+
+Cursors Folder places itself on your Start button:
+.. Start > Programs > Blaiz Enterprises > Files > Cursors
+
+
+Information
+Classification
+<programclassification>
+
+Usage
+Personal and business use
+
+Operating System
+Microsoft Windows 95/98/ME/NT/2000/XP
+
+Security
+Anti-tamper
+
+Distribution
+Contact Blaiz Enterprises for distribution permission
+http://www.blaiz.net/contact.html
+
+Download Site
+<programdownload>
+
+Information Page
+<programinformationpage>
+
+Internet Link
+<programlink>
+
+Contact
+http://www.blaiz.net/contact.html
+
+Portal - Blaiz Enterprises
+http://www.blaiz.net
+
+Free Software
+http://www.blaiz.net/free_software.html
+
+Internet Search Engine
+http://www.rawgrunt.com
+
+
+Features
+* Realtime animation viewing
+* Supported graphic formats: BMP, WMF, EMF, JPG, JPGT, JIF, GIF - solid and transparent'89a', ICO - true color solid and transparent, PPM, PGM, PBM, XBM, TEP, ATEP, OMI, SAN, EAN, HTM/HTML - email signature
+* Internet style interface
+* Intelligent behaviour
+* Lightweight architecture (VUN) - minimal resource usage
+* Quality engineered, stable and reliable
+* Seamless format-to-format conversion
+* Copy Cells/Paste Cells - convert animation to/from an "Image Strip" for external editing (MS Paint, graphics package)
+* Copy As Text - copy animation to Clipboard as plain text
+* Transparent/Flip/Mirror
+* Delay in milliseconds (animation speed)
+* Bgcolor - switch preview background colors
+* Pot Fill - create transparency, definable tolerance
+* Trim - automatically delete unused areas
+* Faster/slower speed options
+* Retain SaveAs format - for multiple same format saving
+* Custom preview background color
+* Flash preview background color whilie scolling
+* Animation status bar readout: fps, cells, size width/height and bytes
+* Frame animation preview
+* Definable format listing
+* Single click for Animations / Pictures / Cursors Support Folder listing
+* Edit "san" directly in Animator
+* Automatic scroll - definable speed, down/stop/up, continuous repeat
+* Rename
+* 2x "Save As/Paste From" options - save/open from multiple folders -??????(more information, use two folders at same time)??????????????
+* 2x "Send" options - copy animation to external folders
+* Send replace prompt option
+* 2x Definable "Send" folders
+* User Management (customise options/settings and appearance)
+* Schemes
+* Clone program option - run multiple parallel independent instances
+* Portable program support - run with no installation, no Start button placement, all files retained on source storage device (usb stick, usb disk etc)
+* Sizeable
+* Animated program icon
+* Balanced program resize
+* Multiple-user support
+* Built-in delete program option
+* Dual layer multilingual language support (custom - write your own, and primary)
+* Detailed program information panels - see Help/Information tab
+* Detailed program information panel
+* Detailed system information panel
+* System folders management panel
+* Synchronise Support Folders
+* Copy/Paste program Scheme to Clipboard as plain text for easy email/transportation of entire program settings/options and appearance information
+* Definable program font size for large GUI text display
+* Program Category List - run same category programs quickly and easily
+* 6 button window
+* Complementary Tool for Animated ArtCard Creations Package http://www.blaiz.net/aac.html - effortlessly insert animations (GIF, SAN, EAN etc) onto ArtCards - click "Copy Cells" link (copy whole animation), or "Copy" link (first animation cell), from AAC select "Animation > Paste" option
+* Realtime Help - hover mouse for instance specific help
+* Integrated Help
+* Built-in help viewer with additional html/plain text external viewing options
+* No installation
+
+
+Starting Out
+Specific and instance realtime help is scrolled at top of window - simply hover mouse over any part of program.
+
+Click "Animations", "Pictures" or "Cursors" link to view their contents. These are Support Folders that share (available) their content between Blaiz Enterprises' programs. Click "Folder C:\..." link just above preview area to select an alternative folder.
+
+Contents of folder are displayed in right panel titled "Files". Click a file to view, or click "Scroll Down" or "Scroll Up" link to scroll through all files automatically.
+
+Animation can be easily adjusted, in realtime using one of these options (bottom panel):
+
+Transparent - Bullet to show animation transparently, otherwise solid
+Flip - Bullet to flip vertically
+Mirror - Bullet to flip horizontally
+Faster - increase animation speed
+Slower - decrease animation speed
+Trim - automatically delete unused areas (wasted space)
+
+Animation is modified in memory, and must be saved in order for changes to be permanent:
+Click "Save" link to save (replace) without prompting in same format or click "Save As" link 
+to display a "Save As" window. Type a new file name and/or select alternative format and click "Save" button. "Files" list will update and automatically highlight animation.
+
+
+Realtime Help
+Hover mouse over any part of program for instance and specific help - scrolled at top of program window.
+
+Select "User Management" tab and ensure "Realtime Help" option is bulleted.
+
+
+Portable Mode
+Running program in portable mode will execute as computer independent - no installation, no Start button placement, with all files retained/work processed, on source storage device.
+
+Portable mode must be manually engaged:
+
+1. Copy an instance of program (EXE file) to target storage device (usb stick, usb disk etc)
+2. Rename EXE file to include a trailing "~" symbol ie. "program name~.exe"
+3. Run program. All support files, schemes, settings and associated files are now stored in common folder "Blaiz Enterprises" - directly alongside program EXE.
+
+To disable portable mode remove "~" from EXE file name.
+
+Note: Ensure program is still accessible during next computer boot if "Automatic Startup" option is enabled under User Management, or program will fail to start automatically.
+
+Ensure a portable version of Select Language also resides alongside program, with a file name of "select language~.exe" to enable "Primary Translation" support. To change program language select "Help / Information > Translation > Primary Translation" and click "Change Language" link.
+
+
+Complementary Tool
+For Animated ArtCard Creations Package http://www.blaiz.net/aac.html - effortlessly insert animations (various formats GIF, SAN, EAN etc) onto your ArtCards for fantastic results!
+
+From <programname> click "Copy Cells" link (copy whole animation), or click "Copy" link (first cell of animation only). From Animated ArtCard Creations Package select "Animation > Paste" option. Animation will appear on ArtCard´s top left corner. Click and drag into position.
+
+
+Translation
+<programname> supports dual layer translation:
+1. Custom Translation - created and maintained by user
+2. Primary Translation - set by our Select Language program http://www.blaiz.net/sl.html
+
+
+Custom Translation
+User customisible plain text translation system. Select "Help / Information > Translation > Custom Translation" to view control panel.
+
+You have the ability to create and modify a plain text, custom language translation, that is specific to this program (no other program will be affected) and stored inside the current program scheme and any Scheme/s saved by this program, allowing for easy backup/recovery and transportation/sharing.
+
+Options:
+Copy - Copy translation to Clipboard as plain text
+Paste - Paste translation from Clipboard and replace current
+Clear - Reset translation to defaults
+
+Translation is spread over 5 sections: Information, GUI Translation, Realtime Help Translation, Error Translation, Currently Unused Translation.
+
+1. ## Information #########################
+Has three parts:
+a) Language description - e.g. "[Language]>German" for German
+b) Acknowledgement text - e.g. "[Acknowledgement]>Translation by XYZ"
+c) Text Picture (still or animated). From Animation Viewer, click "Copy As Text" link to copy picture/animation to Clipboard as plain text - e.g. "[TEP]>T4M00D00))))So9d0000)3OUu300W300)BjQu3B0Tl90~1222 2222222222222222 211222222222 22222222222112222222 22222222222221 12222222222222222 2222134444444444444 44444453344444 44444444444444533444 4444444444444444 533444444444444444 444453677777777777 777777778667 777777777777777 7778667777777777777777 77786677777777777777777778 668888888888 888888888 86#"
+
+2. ## GUI Translation #########################
+Comprised of many translation pairs:
+a) Original English word/phrase - do not modify (used by Program)
+b) New word/phrase - type your translation here (keep on one line)
+
+Examples:
+[ORG]>Delete
+[NEW]>"Equivalent in your language"
+
+[ORG]>Select All
+[NEW]>"Equivalent in your language"
+
+Sections 3 through 5 are comprised identically to section 2 above:
+3. ## Realtime Help Translation #########################
+4. ## Error Translation #########################
+5. ## Currently Unused Translation #########################
+
+Note: Section 5 "Currently Unused Translation" will only appear with entries if one or more translation pairs have not yet been used atleast once by program (e.g. prompt dialog Window).
+
+Overview/Statistics Panel Explained:
+
+Information:
+Language - Language description (section 1a above)
+
+Lookup:
+Tracks translation requests performed by program successful or not.
+
+Successful - English replaced with user supplied word/phrase
+Not Found - English retained as no user supplied word/phrase was found
+Total - Total number of translation requests
+
+Coverage:
+Statistical overview of supplied and required translations for sections 2 through 5.
+
+
+Primary Translation
+You have the ability to use a predefined language via our "Select Language" program. To select a language click "Change Language" link. Our Select Language program will appear. Choose desired language and close. Restart this program.
+
+Select Language must be present on your computer - to visit Select Language homepage for download and further information click "More Information" link or goto http://www.blaiz.net/sl.html
+
+A language choosen by this method requires program to be restarted for changes to take affect, and will also change the language for all Blaiz Enterprises' programs.
+
+Note: Select Language based translations cover some programs completely, while most only partialy, due to the sheer volume of translations required. For program specific user customisible translation options, refer to the "Custom Translation" topic.
+
+
+Licensing
+Our logos / hyperlinks are embedded in program for promotional purposes.
+
+However, if you do wish to remove scrolling logos / hyperlinks from <programname>, this will require a small fee for licensing - (See <programinformationpage>#buy to order and receive your License Information).
+
+To license <programname> -
+1. Run <programname>
+2. Highlight and copy your Unlock Information to Windows clipboard
+3. From <programname> select 'Help / Information > License' and 
+   click 'Unlock / Modify License' link. A 'Successfully Licensed'
+   window will display. Click 'OK' button.
+4. <programname> is now licensed with promotional logos / hyperlinks 
+   removed, and free updates.
+
+Note: Licenses are not locked to a specific computer, allowing for portable programs, as well as hassle free complete backup and recovery, without the need to relicense. License information is stored under "Blaiz Enterprises > System > Critical > Licenses" folder.
+
+
+Restoring Defaults
+To reset your program to default options/settings and appearance, select "User Management" tab, click "Defaults" button (bottom-right), click "Yes" to proceed and "Yes" again, to confirm.
+
+
+Delete
+All our software programs are no installation and self-contained. There will be no entry under the Windows "Add/Remove" option.
+
+Automatic Delete:
+Permanently delete program and directly associated files from host computer (Start button) or storage device (portable mode). Schemes, Cursors, Pictures, Animations and other shared content will not be deleted.
+
+Note: Blaiz Enterprises' delete program "blaizdel.exe" (~18K), tasked with removal of selected program, is written to Windows temporary folder, and eventually should be removed by operating system.
+
+To delete <programname> select "Help / Information > Tools" and click "Delete Program" button. A "Delete Program" window will display, click "Yes" button. A "Confirm Delete Program" window will display, enter four digit code and click "Confirm" button. Program will close and be deleted.
+
+Manual Delete:
+All Blaiz Enterprises' software are no installation (no additional "dll" libraries, no regisitry modifications etc), and therefore can be deleted outright, without needing to "uninstall".
+
+Using a "My Computer" window, navigate to folder containing program/s and delete at will.
+
+
+Technological Background
+The new generation of Blaiz Enterprises' software is now proudly based entirely on BE proprietary engineered code foundation, consisting of three main pillars: Visual Engine, User Management and Network Management, forming a base package of systems called "VUN".
+
+VUN Overview
+
+Designed from need-based functionality, to a flexible, easy to use and customisible Graphical User Interface, with a solid, concise and fast code foundation.
+
+VUN Design
+
+* 192+ highly organised, dynamic, self-managing objects, each able to cross-communicate, seamlessly and effortlessly, with core redundancy handling for performance reliability and long-term, consistent stability
+
+* 92,000+ lines of concise, interconnected, modular, object-orientated code, form the powerful, flexible, yet extremely dynamic system - suitable for small to large scale demands with no additional complexity
+
+* High level of Windows operating system independence, enables successful execution over multiple Windows platforms using a single code base, whilst greatly reducing error production, program complexity and debugging time lines
+
+* Engineered exclusively "in house" (no third party) to stringently high standards of quality and performance, yielding vitally important benefits of:
+
+1.  Display, function and execution consistency
+2.  High stress stability
+3.  Ease of scalability
+4.  Low system dependency
+5.  Ultra low System/User/GDI and graphics resource consumption
+6.  Control management system - thousands of controls per GUI
+7.  Low graphical overhead/demand
+8.  Low memory consumption
+9.  Ultra fast startup
+10. High level of customisation (user)
+11. High level of internal system automation
+12. Built-in automatic delete program option
+13. No Installation
+
+VUN Technicals
+
+Visual Engine
+* Rapid control creation
+* Large capacity - thousands of controls per program, even under Windows 9x architecture
+* Coordination of mouse/keyboard input information for specific behaviour generation
+* Single step, managed control construction, initialisation and destruction
+* Native position processing for code free intelligent control alignment
+* Lightweight, non-Windows control architecture
+* Buffered painting for flicker free rendering
+* Virtual bitmap/image - no GDI resources
+* Coordinated low resource, 64-bit, synchronised timing system
+
+User Management
+* Managed variable environment (name/value/type/default/range)
+* Realtime IO synchronisation
+* Program specific organisation
+* Integrated environment wide notification
+* Native clone support for multiple parallel instances
+* Color conflict detection and correction
+
+Network Management
+* Fully managed socket layer - connection/status/closure
+* Linear design model
+* Flood detection
+* Complex free client/server operation
+* Throttle controlled upload/download streaming
+* On the fly compression
+* DNS cache/lookup manager
+* Uniform local and network error handling/reporting system
+* Integrated raw logs
+* Realtime information panels
+
+General
+* Linear error handling - high stability, cascade failure free
+* Dynamic, scalable type controllers
+* Script processor
+* Dual layer multilingual language translation (custom and primary)
+* Portable mode - program/files work from source storage device
+
+
+<programeula>
