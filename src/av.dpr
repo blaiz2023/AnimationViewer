@@ -8,9 +8,9 @@ uses
   av1 in 'av1.pas',
   av5 in 'av5.pas';
 
-//{$R *.RES}
+{$R *.RES}
 
-{$R av-256.res}
+//{$R av-256.res}
 begin
   application.initialize;
   appstart;
