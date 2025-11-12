@@ -1,5 +1,5 @@
 # AnimationViewer v1.00.3600 - 12aug2025
-Realtime view/edit transparent animations (GIF, SAN, EAN...) and pictures (BMP, JPG, ICO...) with ease and seamless format to format conversion. Many features +portable, clone, realtime scrolling Help, custom user language translation etc.
+View and edit animations (GIF, SAN, EAN) and pictures (BMP, JPG, ICO) with ease.
 
 <img src="images/av-screenshot.png">
 
@@ -38,7 +38,7 @@ Realtime view/edit transparent animations (GIF, SAN, EAN...) and pictures (BMP, 
 * Portable
 
 # Download
-<a href="src/av.exe">av.exe</a> - windows all
+Download <a href="src/av.exe">av.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above.
 
 # Images
 <img src="images/av-screenshot2.png">
