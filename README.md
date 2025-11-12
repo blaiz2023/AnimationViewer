@@ -1,4 +1,4 @@
-# AnimationViewer v1.00.3600 - 12aug2025
+# AnimationViewer v1.0.3602 / 13nov2025 / MIT License
 View and edit animations (GIF, SAN, EAN) and pictures (BMP, JPG, ICO) with ease.
 
 <img src="images/av-screenshot.png">
