@@ -37,6 +37,9 @@ View and edit animations (GIF, SAN, EAN) and pictures (BMP, JPG, ICO) with ease.
 * No installation
 * Portable
 
+# A Blast From The Past
+Please note this is an old program and some links and information may be out of date or inoperative, and some functionality may be reduced. 
+
 # Download
 Download <a href="src/av.exe">av.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above.
 
